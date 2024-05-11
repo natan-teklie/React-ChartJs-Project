@@ -1,0 +1,27 @@
+
+.App {
+
+  margin: 0;
+  background-color: black;
+}
+.revienuCard{
+  top: 0;
+  background-color: blue;
+  max-width: 100%;
+  display: block;
+  height: 23em;
+}
+.catagoryCard{
+  display: flex;
+  background-color: black;
+}
+.customeCard{
+  display: flex;
+  background-color: aqua;
+}
+.all{
+  display: flex;
+  gap: 50px;
+  .dataCard{
+    gap: 100px;
+  }
